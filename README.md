@@ -3,7 +3,9 @@
 **Paper:** [Forecasting NVIDIA Residual Returns: A Multi-Modal Deep Learning Approach](https://www.researchgate.net/publication/398676247_Forecasting_NVIDIA_Residual_Returns_A_Multi-Modal_Deep_Learning_Approach?channel=doi&linkId=693f7c969aa6b4649dc09a73&showFulltext=true)
 
 **Authors:** Krishna Tej Bhat, Ashwin Kumar, Abhiraj Ezhil
+
 **Course:** SI 699 – Capstone Project, University of Michigan School of Information
+
 **Term:** Fall 2025
 
 ## Abstract
