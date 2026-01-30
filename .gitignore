@@ -1,0 +1,32 @@
+# Original unorganized folders (archived locally)
+Code/
+dataset/
+
+# Project setup files
+claude_code_prompt.md
+
+# OS files
+.DS_Store
+*.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
