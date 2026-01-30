@@ -1,4 +1,4 @@
-# Multi-Modal Alternative Data for Short-Term Equity Return Prediction
+# Forecasting NVIDIA Residual Returns with Multi-Modal Deep Learning
 
 **Paper:** [Forecasting NVIDIA Residual Returns: A Multi-Modal Deep Learning Approach](https://www.researchgate.net/publication/398676247_Forecasting_NVIDIA_Residual_Returns_A_Multi-Modal_Deep_Learning_Approach?channel=doi&linkId=693f7c969aa6b4649dc09a73&showFulltext=true)
 
